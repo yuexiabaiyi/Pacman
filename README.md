@@ -1,4 +1,4 @@
-**Pacman Factory**
+**PacMen Factory**
 
 
 Description of the project: This project is a small game called Pacman Factory.   
@@ -6,7 +6,7 @@ Description of the project: This project is a small game called Pacman Factory.
 
 **How to Run:**   
  1. Click "Start Game" button.
- 2. Click "Add Pacman" button.  
+ 2. Click "Add PacMen" button.  
 
 
 You can add as many pacman as you want o make them bounce back and forth on the screen.
