@@ -1,4 +1,4 @@
-# **Pacman Factory**
+**Pacman Factory**
 
 
 Description of the project: This project is a small game called Pacman Factory.   
