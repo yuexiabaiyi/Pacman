@@ -4,7 +4,7 @@
 Description of the project: 
 
 
-This project is a small game called Pacman Factory.   
+This project is a small game called PacMen Factory.   
 
 
 You can add as many pacman as you want o make them bounce back and forth on the screen.
