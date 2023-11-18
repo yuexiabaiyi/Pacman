@@ -1,7 +1,13 @@
 **PacMen Factory**
 
 
-Description of the project: This project is a small game called Pacman Factory.   
+Description of the project: 
+
+
+This project is a small game called Pacman Factory.   
+
+
+You can add as many pacman as you want o make them bounce back and forth on the screen.
 
 
 **How to Run:**   
@@ -9,7 +15,10 @@ Description of the project: This project is a small game called Pacman Factory.
  2. Click "Add PacMen" button.  
 
 
-You can add as many pacman as you want o make them bounce back and forth on the screen.
+**Roadmap of future improvements**
+
+
+Could style it bettter such as introduce a video or map background
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
